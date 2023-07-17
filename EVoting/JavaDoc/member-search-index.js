@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.amrita.jpl.cys21027.project","c":"EVotingApplication","l":"EVotingApplication()","u":"%3Cinit%3E()"},{"p":"com.amrita.jpl.cys21027.project","c":"EVotingApplication","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
